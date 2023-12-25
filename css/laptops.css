@@ -3,6 +3,12 @@
     /* /* header *\ */
    padding-inline: 32px;
 }
+.number2{
+    flex-direction: column;
+    row-gap: 40px;
+    padding: 32px;
+
+}
 
 
 

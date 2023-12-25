@@ -1,0 +1,13 @@
+@media (max-width: 745px)
+/* header */
+header{
+    padding-inline: 24px
+}
+/* section1 */
+.number1{
+    padding: 94px;
+}
+.medium{
+    font-size: 36px;
+
+}
